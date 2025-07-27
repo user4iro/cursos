@@ -13,7 +13,7 @@ export const testimonials: Testimonial[] = [
     name: "Carlos Ramírez",
     location: "Cali, Colombia",
     course: "Crianza de Pollos de Engorde",
-    image: "https://www.facebook.com/photo/?fbid=10216462599142714&set=a.1600189329830",
+    image: "https://i1.rgstatic.net/ii/profile.image/655624606064640-1533324495797_Q512/Carlos-Ramirez-5.jpg",
     text: "Gracias a este curso pude empezar mi negocio de pollos de engorde. El acompañamiento veterinario me ha ayudado a mantener saludable mi lote y ya estoy vendiendo toda mi producción a restaurantes locales."
   },
   {
@@ -21,7 +21,7 @@ export const testimonials: Testimonial[] = [
     name: "María Fernández",
     location: "Medellín, Colombia",
     course: "Crianza de Gallinas de Postura",
-    image: "https://randomuser.me/api/portraits/women/2.jpg",
+    image: "https://diecisiete.org/wp-content/uploads/2023/08/Martha-Edna-Barrios-Serrano.jpeg",
     text: "Increíble la cantidad de conocimiento que adquirí. Empecé con 50 gallinas y ahora tengo más de 300. Vendo todos los huevos en mi comunidad y no doy abasto con la demanda."
   },
   {
@@ -29,7 +29,7 @@ export const testimonials: Testimonial[] = [
     name: "Juan Pérez",
     location: "Bogotá, Colombia",
     course: "Fabricación de Alimentos para Animales",
-    image: "https://randomuser.me/api/portraits/men/3.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSCen6fge1ypPXBX8-ea6EAYQq0iqVP0Fps2tqfmFYznS4LYdLxKDnRdgIkcO7DA4xyiSE&usqp=CAU",
     text: "He reducido los costos de alimentación de mis animales en un 40%. La fórmula que aprendí a preparar ha mejorado notablemente el rendimiento de mis pollos."
   },
   {
@@ -37,7 +37,7 @@ export const testimonials: Testimonial[] = [
     name: "Luisa Mendoza",
     location: "Barranquilla, Colombia",
     course: "Crianza de Peces en Estanques",
-    image: "https://randomuser.me/api/portraits/women/4.jpg",
+    image: "https://previews.123rf.com/images/trjiii1/trjiii12001/trjiii1200100209/137749433-middle-aged-woman-in-her-40s-sitting-outside-in-fall.jpg",
     text: "Ahora tengo tres estanques funcionando perfectamente. El curso me dio todas las herramientas para entender la crianza de tilapias y ya estoy vendiendo a restaurantes locales."
   },
   {
@@ -45,7 +45,7 @@ export const testimonials: Testimonial[] = [
     name: "Roberto Gómez",
     location: "Pereira, Colombia",
     course: "Crianza y Engorde de Cerdos",
-    image: "https://randomuser.me/api/portraits/men/5.jpg",
+    image: "https://i.pinimg.com/236x/b6/65/5f/b6655f13ad3da553bf87e063690e76e3.jpg",
     text: "Comencé con 2 cerdas reproductoras y ahora tengo una granja con 30 animales. El acompañamiento veterinario me ha permitido prevenir enfermedades y optimizar la producción."
   },
   {
@@ -61,7 +61,7 @@ export const testimonials: Testimonial[] = [
     name: "Diego Martínez",
     location: "Bucaramanga, Colombia",
     course: "Fabricación de Alimentos para Animales",
-    image: "https://randomuser.me/api/portraits/men/7.jpg",
+    image: "https://us.123rf.com/450wm/mettus/mettus1305/mettus130501990/19592904-primer-plano-el-retrato-de-una-hermosa-ni%C3%B1a-en-el-amanecer.jpg?ver=6",
     text: "No solo alimento a mis animales, ahora también vendo concentrado a mis vecinos. Un nuevo ingreso que no esperaba y que aprendí gracias al curso."
   },
   {
@@ -69,7 +69,7 @@ export const testimonials: Testimonial[] = [
     name: "Patricia Ortiz",
     location: "Pasto, Colombia",
     course: "Crianza de Gallinas de Postura",
-    image: "https://randomuser.me/api/portraits/women/8.jpg",
+    image: "https://us.123rf.com/450wm/nicexray/nicexray1612/nicexray161200044/67796365-woman-portrait-in-autumn-garden.jpg",
     text: "Con el acompañamiento veterinario logré controlar un brote de enfermedad que habría acabado con mis aves. El soporte es real y muy valioso."
   },
   {
@@ -77,7 +77,7 @@ export const testimonials: Testimonial[] = [
     name: "Fernando Rojas",
     location: "Ibagué, Colombia",
     course: "Crianza y Engorde de Cerdos",
-    image: "https://randomuser.me/api/portraits/men/9.jpg",
+    image: "https://i.pinimg.com/736x/89/7d/0a/897d0aa8c00ea03438fa7e249e61589f.jpg",
     text: "La técnica de alimentación que aprendí ha reducido el tiempo de engorde de mis cerdos en casi un mes. Más rentabilidad y mejores precios."
   },
   {
@@ -85,7 +85,7 @@ export const testimonials: Testimonial[] = [
     name: "Carolina Duarte",
     location: "Santa Marta, Colombia",
     course: "Crianza de Peces en Estanques",
-    image: "https://randomuser.me/api/portraits/women/10.jpg",
+    image: "https://img.freepik.com/foto-gratis/chica-gordita-casual-denim-al-aire-libre_23-2148804614.jpg?semt=ais_hybrid&w=740",
     text: "Logré implementar un sistema de recirculación de agua que ha mejorado la salud de mis peces y reducido el consumo de agua. Excelente curso."
   },
   {
@@ -93,7 +93,7 @@ export const testimonials: Testimonial[] = [
     name: "Javier Luna",
     location: "Manizales, Colombia",
     course: "Crianza de Pollos de Engorde",
-    image: "https://randomuser.me/api/portraits/men/11.jpg",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3cp1d3_jFjBEhg-O18dGtnhkcPtxfrhHqfA&s",
     text: "En seis meses pasé de tener 100 pollos a más de 500. La metodología del curso es práctica y el soporte posterior ha sido clave para mi crecimiento."
   },
   {
