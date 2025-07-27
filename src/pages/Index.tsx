@@ -36,7 +36,7 @@ export default function Index() {
                 <Button asChild size="lg" className="bg-white text-green-800 hover:bg-green-100">
                   <Link to="/cursos">Ver Cursos</Link>
                 </Button>
-                <Button asChild size="lg" variant="outline" className="text-white border-white hover:bg-green-800">
+                <Button asChild size="lg" variant="outline" className="text-white border-white bg-transparent hover:bg-white/10">
                   <Link to="/testimonios">Testimonios</Link>
                 </Button>
               </div>
