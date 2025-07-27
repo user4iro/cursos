@@ -53,7 +53,7 @@ export default function Index() {
                   className="rounded-lg shadow-2xl"
                 />
                 <div className="absolute -bottom-6 -left-6 bg-white p-4 rounded-lg shadow-lg">
-                  <p className="text-green-800 font-semibold">Te ayudamos a encontrar clientes para tu primer lote de crianza. No te quedarás con la producción sin vender.Incluye acompañamiento veterinario gratuito por 1 año</p>
+                  <p className="text-green-800 font-semibold">Te ayudamos a encontrar clientes para tu primer lote de crianza.</p>
                 </div>
               </div>
             </div>
