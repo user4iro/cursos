@@ -17,7 +17,7 @@ export const courses: Course[] = [
     description: "Aprende las mejores técnicas para la crianza eficiente de pollos de engorde cob500 y ros 308. Desde la selección de aves hasta la comercialización del producto final.",
     fullPrice: 200000,
     discountPrice: 100000,
-    image: "https://images.unsplash.com/photo-1592052224003-913edff37a14?q=80&w=800&auto=format&fit=crop",
+    image: "https://catedralatam.com/wp-content/uploads/2023/07/Cobb-Breeder-Guide-Spanish.jpg",
     features: [
       "Selección de razas cob500 y ros 308",
       "Preparación del galpón y equipos necesarios",
@@ -35,7 +35,7 @@ export const courses: Course[] = [
     description: "Domina el manejo de gallinas ponedoras para producir huevos de calidad. Desde la cría hasta la comercialización de huevos frescos.",
     fullPrice: 220000,
     discountPrice: 110000,
-    image: "https://images.unsplash.com/photo-1535477421609-f90d8e309a8a?q=80&w=800&auto=format&fit=crop",
+    image: "https://i0.wp.com/actualidadavipecuaria.com/wp-content/uploads/2023/09/WEB-4.jpg?fit=1200%2C675&ssl=1",
     features: [
       "Selección de razas ponedoras de alto rendimiento",
       "Diseño de instalaciones para gallinas ponedoras",
@@ -71,7 +71,7 @@ export const courses: Course[] = [
     description: "Descubre cómo implementar y administrar un sistema de producción de peces rentable y sostenible en estanques artificiales.",
     fullPrice: 190000,
     discountPrice: 95000,
-    image: "https://images.unsplash.com/photo-1544551763-46a013bb70d5?q=80&w=800&auto=format&fit=crop",
+    image: "https://aneia.uniandes.edu.co/wp-content/uploads/2024/09/juan-nieto-portada.jpg",
     features: [
       "Diseño y construcción de estanques",
       "Selección de especies rentables (tilapia, trucha, etc.)",
@@ -84,20 +84,20 @@ export const courses: Course[] = [
   },
   {
     id: "alimentos",
-    title: "Crianza de Peces para Consumo",
-    category: "Piscicultura Avanzada",
-    description: "Aprende a criar peces como tilapia, mojarra, cachama, bagre y trucha en lagos artificiales con o sin geomembrana para producción comercial.",
+    title: "Fabricación de Alimentos para Animales",
+    category: "Nutricion Animal",
+    description: "Aprende a formular y fabricar alimentos balanceados para diferentes especies. Reduce costos y mejora la productividad de tu granja.",
     fullPrice: 180000,
     discountPrice: 90000,
-    image: "https://images.unsplash.com/photo-1595503240812-7286dafaddc1?q=80&w=800&auto=format&fit=crop",
+    image: "https://i.ytimg.com/vi/4Sb2aaTUpsQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDXJARa8E0rK7fNw3UU6l_Xb42pKQ",
     features: [
-      "Diseño de lagos artificiales con y sin geomembrana",
-      "Selección de especies rentables (tilapia, mojarra, cachama, bagre, trucha)",
-      "Sistemas de oxigenación y mantenimiento del agua",
-      "Alimentación estratégica para crecimiento óptimo",
-      "Prevención y control de enfermedades acuáticas",
-      "Técnicas de cosecha y procesamiento",
-      "Comercialización directa y distribución a restaurantes"
+      "Materias primas y su valor nutricional",
+      "Formulación de raciones balanceadas",
+      "Equipos para procesamiento de alimentos",
+      "Técnicas de mezclado y peletizado",
+      "Manejo de nucleo y niveles proteicos",
+      "Técnicas de conservacion",
+      "reembasado de materias primas"
     ]
   }
 ];
