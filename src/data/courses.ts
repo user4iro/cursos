@@ -35,7 +35,7 @@ export const courses: Course[] = [
     description: "Domina el manejo de gallinas ponedoras para producir huevos de calidad. Desde la cría hasta la comercialización de huevos frescos.",
     fullPrice: 220000,
     discountPrice: 110000,
-    image: "https://i0.wp.com/actualidadavipecuaria.com/wp-content/uploads/2023/09/WEB-4.jpg?fit=1200%2C675&ssl=1",
+    image: "https://i0.wp.com/actualidadavipecuaria.com/wp-content/uploads/2025/04/108_AVES-corregido-final-121.jpg?fit=1200%2C701&ssl=1",
     features: [
       "Selección de razas ponedoras de alto rendimiento",
       "Diseño de instalaciones para gallinas ponedoras",
