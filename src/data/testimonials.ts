@@ -13,7 +13,7 @@ export const testimonials: Testimonial[] = [
     name: "Carlos Ramírez",
     location: "Cali, Colombia",
     course: "Crianza de Pollos de Engorde",
-    image: "https://randomuser.me/api/portraits/men/1.jpg",
+    image: "https://scontent.fclo14-1.fna.fbcdn.net/v/t1.6435-9/36088390_10216462599222716_2125440376893341696_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeFbIUnXdLtH_YI5lnGEse6aBjgAfsjipLIGOAB-yOKksu8YUMSFej5l_3-Xp6vjShg&_nc_ohc=ruKOvq8O-FIQ7kNvwGfnd6_&_nc_oc=AdlORtFG5VjztJt5wvFETlMTTli6nyMc-5PRJdNnVf2rNrJ1ZDOkHkqrfui-cTZHuWQ&_nc_zt=23&_nc_ht=scontent.fclo14-1.fna&_nc_gid=2ieWNFFsfidWUQiP18uLKA&oh=00_AfThkpG1RSx41AzgdeYsQz9M-nLtBoP0GfTZLChycZ3Jag&oe=68ADD6FE",
     text: "Gracias a este curso pude empezar mi negocio de pollos de engorde. El acompañamiento veterinario me ha ayudado a mantener saludable mi lote y ya estoy vendiendo toda mi producción a restaurantes locales."
   },
   {
